@@ -1,0 +1,2 @@
+# MAZE
+ini game maze
